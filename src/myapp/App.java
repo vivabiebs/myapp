@@ -2,6 +2,6 @@ package myapp;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("hello App!");
+        System.out.println("hello world of app!");
     }
 }
