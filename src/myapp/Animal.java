@@ -1,7 +1,7 @@
 package myapp;
 
 public class Animal {
-    private float weight;
+    private int age;
     private String name;
 
     public Animal(String name) {
